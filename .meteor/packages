@@ -4,8 +4,7 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
-insecure
 ryw:blog
 mrt:bootstrap-3
-
+accounts-google
+accounts-ui
